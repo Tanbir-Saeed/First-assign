@@ -40,8 +40,13 @@ section{
 }
 .text-pos{
     text-align: center;
-    padding-right: 15%;
     padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+}
+.my-reci{
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.534);
 }
 .img-size{
     padding-left: 7.5%;
