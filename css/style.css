@@ -44,9 +44,38 @@ section{
     padding-left: 15%;
 }
 .img-size{
-    border-radius: 15px;
+    padding-left: 7.5%;
+    margin-top: 7.5%;
+    border-radius: 15%;
 }
 .width{
     width: 30%;
-    padding-left: 4%;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding-bottom: 5%;
+}
+.margin-text{
+    margin: 0% 10%;
+}
+.widt{
+    width: 30%;
+    padding-left: 10%;
+}
+.social{
+    border-radius: 20px;
+    margin: 120px 40px ;
+    box-shadow: 10px 10px 10px gray;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.back-c{
+    background-color: black;
+    padding: 2%;
+}
+.t-color{
+    color: white;
 }
