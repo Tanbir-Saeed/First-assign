@@ -13,10 +13,11 @@ p{
 }
 section{
     display: flex;
+    margin-top: 20px;
 }
 .half-W{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 9%;
 }
 .half-W img{
     width: 70%;
@@ -79,8 +80,10 @@ section{
 }
 .back-c{
     background-color: black;
-    padding: 2%;
 }
 .t-color{
     color: white;
+}
+.pad-pos{
+    padding-bottom: 80px;
 }
