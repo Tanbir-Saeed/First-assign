@@ -38,3 +38,15 @@ section{
 .Back-pic{
     background-image: url(back-pic.png);
 }
+.text-pos{
+    text-align: center;
+    padding-right: 15%;
+    padding-left: 15%;
+}
+.img-size{
+    border-radius: 15px;
+}
+.width{
+    width: 30%;
+    padding-left: 4%;
+}
